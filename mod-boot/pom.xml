@@ -9,7 +9,7 @@
 
   <parent>
     <groupId>com.sonatype.depshield</groupId>
-    <artifactId>multi-module-maven</artifactId>
+    <artifactId>multi-module-maven-2</artifactId>
     <version>0.9.0-SNAPSHOT</version>
   </parent>
 
